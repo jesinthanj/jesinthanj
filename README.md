@@ -2,7 +2,7 @@
 
 # Hi, I’m **Jesinthan** 👋
 
-**Software Engineer · Data Science & Analytics · QA Automation**</b>
+**Software Engineer · Data Science & Analytics · QA Automation** <b></b>
 Dublin, Ireland · Stamp 1G · Open to roles in IE/UK/EU/Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesinthan-blue?logo=linkedin)](https://www.linkedin.com/in/jesinthan)
