@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m **Jesinthan (Jovin)** 👋
+# Hi, I’m **Jesinthan** 👋
 
 **Software Engineer · Data Science & Analytics · QA Automation · XR/AR tinkerer**  
 Dublin, Ireland · Stamp 1G · Open to roles in IE/UK/EU/Remote
@@ -14,26 +14,26 @@ Dublin, Ireland · Stamp 1G · Open to roles in IE/UK/EU/Remote
 ---
 
 ## 🚀 About me
-- I love **building things that matter**—from full‑stack apps and data pipelines to multiplayer WebXR prototypes.
+- I love **building things that matter**—from full‑stack apps and data pipelines to WebApp prototypes.
 - MSc **Data & Computational Science (UCD, 2024–2025)** with a strong math and statistics foundation.
 - Comfortable spanning **backend ↔ data ↔ DevOps ↔ testing**, with a bias for clear docs and reproducible results.
 - Previously at **Tekion** (QA/SDET → full‑stack), led **FABLAB** resource manager project, founded **Pattarai** student tech club.
-- Currently exploring **LLMs & RAG**, **Spark/Databricks**, and **XR** for collaborative experiences.
+- Currently exploring **LLMs & RAG**, **Spark/Databricks**, and **WebApps development** for collaborative experiences.
 
 > **Value prop:** I ship reliable software, document decisions, automate the boring stuff, and align builds to stakeholder outcomes.
 
 ---
 
-## 🧰 Tech stack (high‑confidence)
+## 🧰 Tech stack
 
 **Languages**  
 Python · TypeScript/JavaScript · Java · SQL · R
 
 **Backend & APIs**  
-Flask · FastAPI · Node.js · Express · REST · Auth (JWT/OAuth2) · OpenAPI
+Flask · Node.js · Express · REST · Auth (JWT/OAuth2) · OpenAPI
 
 **Frontend**  
-React · Next.js · A‑Frame (WebXR) · HTML/CSS/TS · MUI/Tailwind · Phaser (2D game)
+React · Typescript · HTML/CSS · MUI/Tailwind
 
 **Data & ML**  
 Pandas · NumPy · scikit‑learn · Spark/PySpark · ETL/ELT · Time‑series · Anomaly detection · Shiny (R)
@@ -45,58 +45,29 @@ PostgreSQL · MySQL · MongoDB · Redis · (Snowflake familiarity)
 AWS (EC2/S3) · Azure (ADF/Databricks/Data Lake) · Docker · Kubernetes · Jenkins · GitHub Actions · Linux
 
 **QA & Automation**  
-Selenium (POM) · REST‑assured · Postman · pytest · CI test pipelines
+Selenium (POM) · REST‑assured · Postman · pytest · CI/CD test pipelines
 
 ---
 
 ## 🌟 Featured projects
 
-### 1) **MemoReal – WebXR Memory Preservation**  
-*A‑Frame + Networked‑AFrame · Express + Socket.io · IK hands · Multiplayer sync*
-- Transforms photos/videos into **embodied 3D experiences**; supports VR + desktop clients.  
-- Built **ownership & interpolation models** for stable real‑time sync; unified VR/desktop input.  
-- Migrated from Wonderland Engine to A‑Frame for **performance + transparency**.
-- **Repo:** *(add link)* · **Demo:** *(add link)*
-
-### 2) **FABLAB – Resource Manager (Campus Makerspace)**  
+### 1) **FABLAB – Resource Manager (Campus Makerspace)**  
 *MERN (MongoDB/Express/React/Node) · Role‑based access · SSO ready*
 - Reservations, inventory, and access control with **audit trails** and **usage analytics**.  
 - Led requirements → UX → delivery; introduced **CI checks** and **deployment scripts**.
-- **Repo:** *(add link)* · **Live:** *(add link)*
 
-### 3) **CALIDITAS – IoT Temperature Scanner (ESP32)**  
+### 2) **CALIDITAS – IoT Temperature Scanner (ESP32)**  
 *ESP32 · Cloud logging · Analytics dashboards*
 - Low‑cost alternative to commercial scanners used by campus during COVID‑19.  
 - Workshops for juniors; emphasized **learning‑first** culture.  
-- **Repo:** *(add link)*
 
-### 4) **Cortex ERP Suite (WIP)**  
+### 3) **Cortex ERP Suite (WIP)**  
 *Flask · PostgreSQL · Auth · Modular services*
 - Lightweight ERP modules (auth, inventory, invoicing) with **clean data models** and API docs.  
-- **Repo:** *(add link)*
 
-### 5) **Carbon Cost of Conflict**  
+### 4) **Carbon Cost of Conflict**  
 *R/Python · Monte Carlo · Data viz*
 - Estimates war‑related CO₂ emissions using literature‑based factors; reproducible notebook.  
-- **Repo:** *(add link)*
-
-### 6) **LazyCoach (Prototype)**  
-*iOS · MediaPipe/CoreML · Form feedback*
-- Real‑time pose guidance; model experiments for compound lifts and injury‑prevention cues.  
-- **Repo:** *(add link)*
-
-> Pin the 6 repos above on your profile for a crisp portfolio.
-
----
-
-## 📊 GitHub at a glance
-
-> If your GitHub username is different, update `jesinthan` below.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jesinthan&show_icons=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesinthan&layout=compact" alt="Top languages" height="150" />
-</p>
 
 ---
 
@@ -121,7 +92,6 @@ Selenium (POM) · REST‑assured · Postman · pytest · CI test pipelines
 - **Software Engineering** (Full‑stack · Backend · Platform)  
 - **Data & Analytics** (DE/DA/DS internships & junior roles)  
 - **QA/SDET** (automation pipelines)  
-- **XR/WebXR** (networking, prototyping, research collabs)
 
 > Preferably Ireland/UK/EU; remote welcome. Start dates: immediate/flexible.
 
@@ -130,18 +100,9 @@ Selenium (POM) · REST‑assured · Postman · pytest · CI test pipelines
 ## 📫 Contact
 - **Email**: jesinthan.ie@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/jesinthan  
-- **Portfolio**: *(add your portfolio link here)*
+- **Portfolio**: *https://www.jesinthan.tech*
 
 If you’re building something interesting (data infra, real‑time systems, XR, or impactful public‑interest tech), **let’s talk**.
-
----
-
-## 🔧 Use this as your **Profile README**
-1. Create a repo named **`jesinthan`** (must match your username exactly).  
-2. Add this file as **`README.md`** at the root.  
-3. Replace the *(add link)* parts with your actual repo/demo links.  
-4. Pin 6 featured repos: **MemoReal · FABLAB · CALIDITAS · Cortex ERP · Carbon Cost of Conflict · LazyCoach** (or your picks).  
-5. Optional: keep the stats cards if you like them.
 
 ---
 
